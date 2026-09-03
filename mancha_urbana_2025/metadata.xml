@@ -1,0 +1,27 @@
+<!DOCTYPE qgis PUBLIC 'http://mrcc.com/qgis.dtd' 'SYSTEM'>
+<qgis version="4.0.2-Norrköping">
+  <identifier></identifier>
+  <parentidentifier></parentidentifier>
+  <language></language>
+  <type>dataset</type>
+  <title></title>
+  <abstract></abstract>
+  <links/>
+  <dates/>
+  <fees></fees>
+  <encoding></encoding>
+  <crs>
+    <spatialrefsys nativeFormat="Wkt">
+      <wkt>GEOGCRS["Camacupa 2015",DATUM["Camacupa 2015",ELLIPSOID["Clarke 1880 (RGS)",6378249.145,293.465,LENGTHUNIT["metre",1]]],PRIMEM["Greenwich",0,ANGLEUNIT["degree",0.0174532925199433]],CS[ellipsoidal,2],AXIS["geodetic latitude (Lat)",north,ORDER[1],ANGLEUNIT["degree",0.0174532925199433]],AXIS["geodetic longitude (Lon)",east,ORDER[2],ANGLEUNIT["degree",0.0174532925199433]],USAGE[SCOPE["EEZ delimitation."],AREA["Angola - onshore and offshore."],BBOX[-18.02,8.2,-4.38,24.09]],ID["EPSG",8694],REMARK["Camacupa 1948 (CRS code 4220) is used for offshore oil and gas exploration and production. Camacupa 2015 differs from Camacupa 1948 by up to 25m."]]</wkt>
+      <proj4>+proj=longlat +a=6378249.145 +rf=293.465 +towgs84=-93.799,-132.737,-219.073,-1.844,0.648,-6.37,-0.169 +no_defs</proj4>
+      <srsid>63160</srsid>
+      <srid>520003160</srid>
+      <authid>EPSG:8694</authid>
+      <description>Camacupa 2015</description>
+      <projectionacronym>longlat</projectionacronym>
+      <ellipsoidacronym>EPSG:7012</ellipsoidacronym>
+      <geographicflag>true</geographicflag>
+    </spatialrefsys>
+  </crs>
+  <extent/>
+</qgis>
